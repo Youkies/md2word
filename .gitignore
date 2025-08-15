@@ -1,0 +1,13 @@
+# Python Caches
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+pandoc.exe
